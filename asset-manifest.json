@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ilya-919191/Lb18.git/static/css/main.ad43a589.css",
+    "main.js": "/Ilya-919191/Lb18.git/static/js/main.be169e09.js",
+    "index.html": "/Ilya-919191/Lb18.git/index.html",
+    "main.ad43a589.css.map": "/Ilya-919191/Lb18.git/static/css/main.ad43a589.css.map",
+    "main.be169e09.js.map": "/Ilya-919191/Lb18.git/static/js/main.be169e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad43a589.css",
+    "static/js/main.be169e09.js"
+  ]
+}
