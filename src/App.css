@@ -1,0 +1,6 @@
+.mainContent {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  gap: 30px;
+}
